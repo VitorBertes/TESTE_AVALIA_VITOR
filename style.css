@@ -1,0 +1,32 @@
+
+    h1{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: blue;
+        color: black;
+        text-align: center;
+    }
+    
+h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: red;
+color: white;
+text-align: center;
+}
+ div{background-color: lightblue;
+    color: purple;
+    text-align: center;
+}
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    color: white;
+    
+}
+#LeBron{
+    display: flex;
+     list-style: img;
+     justify-content: right;
+}
+
+
+
